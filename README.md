@@ -57,4 +57,4 @@ National Women's Champion, Amrita InCTF Junior 2021 · Winner (ML track), Google
 **ML/Data:** scikit-learn · XGBoost · LightGBM · pandas · statsmodels · Google Earth Engine  
 **DevOps/Cloud:** Docker · GitHub Actions · Jenkins · AWS (S3, EC2, SageMaker) · Firebase  
 **Frontend/Mobile:** React · Next.js · Flutter  
-**Testing:** JUnit · Playwright · Maestro
+**Testing:** pytest · Playwright · Maestro
