@@ -27,8 +27,8 @@ Final-year Computer Science student at **VIT Bhopal** (graduating 2027). I like 
 | Project | What it is | Tech |
 |---|---|---|
 | [AgriBurn](https://github.com/alzz-26/AgriBurn) | Satellite ML pipeline detecting stubble burning; ~220M pixels per image, 88% CV accuracy · [live](https://agriburn.streamlit.app/) | Python, Earth Engine, XGBoost, LightGBM |
-| [Traffic Event Impact Forecaster](https://github.com/alzz-26/Flipkart-Gridlock-Round-2-Submission) | Flipkart Gridlock round 2: predicts how badly a traffic event will choke a city; 4× lower error after a data-quality fix · [live](https://flipkart-gridlock-round-2-submissio.vercel.app) | Python, Flask, React |
-| [Cisco Demand Forecasting](https://github.com/alzz-26/Demand-Forecasting-using-Machine-Learning) | Cost-weighted XGBoost forecaster for the Cisco Forecasting League, 83.58% accuracy | Python, XGBoost, statsmodels |
+| [Traffic Event Impact Forecaster](https://github.com/alzz-26/traffic-impact-forecaster) | Flipkart Gridlock round 2: predicts how badly a traffic event will choke a city; 4× lower error after a data-quality fix · [live](https://flipkart-gridlock-round-2-submissio.vercel.app) | Python, Flask, React |
+| [Cisco Demand Forecasting](https://github.com/alzz-26/cisco-demand-forecasting) | Cost-weighted XGBoost forecaster for the Cisco Forecasting League, 83.58% accuracy | Python, XGBoost, statsmodels |
 | [Purple Blog](https://github.com/alzz-26/Purple-Blog) | Predicts likes and replies for a post; later redeployed on SageMaker, S3 and EC2 | Python, scikit-learn, Flask, AWS |
 
 **AI agents & full-stack**
@@ -42,7 +42,7 @@ Final-year Computer Science student at **VIT Bhopal** (graduating 2027). I like 
 ### 🌍 Open source
 - **[Project NANDA](https://github.com/projnanda/nandatown/pull/303):** fixed an authorization flaw in the agent registry (forged cards could withdraw other agents' listings) with signature verification and 8 tests. Merged.
 - **GirlScript Summer of Code 2025:** 6 merged PRs across Flutter and web projects.
-- **Google Code-in 2018 & 2019:** 23 open-source tasks completed in school.
+- **Google Code-in 2018 & 2019:** 23 open-source tasks completed in school, including [Drupal 8 modules](https://github.com/alzz-26/google-code-in-2019).
 
 ### 🏆 Achievements
 National Women's Champion, Amrita InCTF Junior 2021 · Winner (ML track), Google Code to Learn 2019 · Grand Finalist, Toycathon 2021 · 2nd Runner-Up, InnovateX Ideathon 2025 · 1st Place, Fevicol Science Project Challenge 2015–16
