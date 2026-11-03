@@ -37,11 +37,15 @@ Final-year Computer Science student at **VIT Bhopal** (graduating 2027). I like 
 | [Interview-Prep-Agent](https://github.com/alzz-26/Interview-Prep-Agent) | Multi-agent mock interviewer with tool calling and memory | Python, LLM APIs |
 | [UnRamble](https://github.com/alzz-26/UnRamble) | Speak daily notes, get a report in your department's format; built for the Wispr challenge | Next.js, TypeScript, Gemini |
 
-**Mobile (Flutter):** [Hydrottva](https://github.com/alzz-26/hydrottva) (InnovateX Ideathon, 2nd runner-up) · [BharatiyaCanvas](https://github.com/alzz-26/BharatiyaCanvas) · [Mini TaskHub](https://github.com/alzz-26/Mini_TaskHub)
+**Mobile (Flutter):** [Hydrottva](https://github.com/alzz-26/hydrottva) (InnovateX Ideathon, 2nd runner-up) · [BharatiyaCanvas](https://github.com/alzz-26/BharatiyaCanvas) (VIT project exhibition) · [Yogasana Star](https://github.com/alzz-26/Yogasana-Star--Innovation-Geeks) (Toycathon 2021 Grand Finalist) · [Flutter mini projects](https://github.com/alzz-26/flutter-mini-projects) (practice apps and internship hiring tasks)
 
 ### 🌍 Open source
 - **[Project NANDA](https://github.com/projnanda/nandatown/pull/303):** fixed an authorization flaw in the agent registry (forged cards could withdraw other agents' listings) with signature verification and 8 tests. Merged.
-- **GirlScript Summer of Code 2025:** 6 merged PRs across Flutter and web projects.
+- **GirlScript Summer of Code 2025:** 6 merged PRs across Flutter and web projects:
+  - OptiFit: [scheduled workout access and notifications (#60)](https://github.com/MasterAffan/OptiFit/pull/60), [pull-to-refresh for workout and progress screens (#64)](https://github.com/MasterAffan/OptiFit/pull/64)
+  - BlyFt: [redesigned intro pages with a theme selector (#206)](https://github.com/Yash159357/BlyFt/pull/206), [app tutorial in the intro page (#234)](https://github.com/Yash159357/BlyFt/pull/234)
+  - NagarVikas: [bottom nav bar without reopening the app (#202)](https://github.com/Prateek9876/NagarVikas/pull/202)
+  - fail-u-forward: [multiple reactions instead of likes (#155)](https://github.com/ruhilmansi/fail-u-forward/pull/155)
 - **Google Code-in 2018 & 2019:** 23 open-source tasks completed in school, including [Drupal 8 modules](https://github.com/alzz-26/google-code-in-2019).
 
 ### 🏆 Achievements
